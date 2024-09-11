@@ -26,6 +26,16 @@ Welcome to ML-AlgoVault, a collection of machine learning algorithms implemented
 
 ### Technologies and Libraries Used
 The notebooks utilize Python and the following libraries:
+-Languages: Python, R 
+- Libraries:
+  - Scikit-learn
+  - TensorFlow
+  - PyTorch
+  - Keras
+  - Numpy
+  - Pandas
+  - Matplotlib/Seaborn for visualization
+
 ```python
 import matplotlib.pyplot as plt
 import pandas as pd
