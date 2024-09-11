@@ -1,7 +1,7 @@
 # ML-AlgoVault
 Welcome to ML-AlgoVault, a collection of machine learning algorithms implemented and documented using Jupyter Notebooks.
 
-### :brain: Algorithms Included
+### 🧠 Algorithms Included
 - Supervised Learning:
   - Linear Regression
   - Logistic Regression
@@ -46,5 +46,5 @@ from sklearn.model_selection import train_test_split, KFold, cross_val_score
 from sklearn import metrics, tree
 ```
 
-### Contributing
+### 🍀 Contributing
 If you have an improvement or a new algorithm you'd like to add, feel free to open a pull request. Contributions are welcome!
