@@ -36,15 +36,5 @@ The notebooks utilize Python and the following libraries:
   - Pandas
   - Matplotlib/Seaborn for visualization
 
-```python
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-from sklearn.datasets import load_iris
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import train_test_split, KFold, cross_val_score
-from sklearn import metrics, tree
-```
-
 ### 🍀 Contributing
 If you have an improvement or a new algorithm you'd like to add, feel free to open a pull request. Contributions are welcome!
